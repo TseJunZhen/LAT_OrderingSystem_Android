@@ -50,10 +50,5 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-//    public void job1(){
-//        Bundle bundle = new Bundle();
-//        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, String.valueOf(R.id.button2));
-//        bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "Button");
-//        mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
-//    }
+
 }
