@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "777225652600",
+    "firebase_url": "https://foodshopdetectedntut.firebaseio.com",
+    "project_id": "foodshopdetectedntut",
+    "storage_bucket": "foodshopdetectedntut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777225652600:android:b26f78a6193eb61d",
+        "android_client_info": {
+          "package_name": "com.example.larvataandroid.orderingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777225652600-56qq4jc94dhfmqrnf5co2jkf2olifir4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.larvataandroid.orderingsystem",
+            "certificate_hash": "92f23f8f30771be881ca5a28dc9b52214ffc3817"
+          }
+        },
+        {
+          "client_id": "777225652600-h16nem8h3tev4sv9po1llrf3dkprskva.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "777225652600-kc3c0crbejl2kto3cukqred6m9pvig2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZc4BDSsu26II_xsmm8JnZYpvO25slEmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777225652600-9s1lu0qov69nt1r1bt472o3ov6ec6r46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "junzhenIOS.OderingSystem1"
+              }
+            },
+            {
+              "client_id": "777225652600-h16nem8h3tev4sv9po1llrf3dkprskva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
